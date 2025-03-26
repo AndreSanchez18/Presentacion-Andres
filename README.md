@@ -2,7 +2,7 @@
 
 ## Datos personales
 
-![Este soy yo](C:/Users/Andres/Desktop/foto.png)
+![Este soy yo](/Users/Andres/Desktop/foto.png)
 
 - Edad : 22 años
 - En pareja
