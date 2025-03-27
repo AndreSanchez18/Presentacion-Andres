@@ -2,7 +2,7 @@
 
 ## Datos personales
 
-<img src="/img/yo" alt="YO" width="500" height="500">
+<img src="/img/yo" alt="YO" width="300" height="500">
 
 - Signo : Acuario
 - Ascendencia : Piscis
