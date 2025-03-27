@@ -2,7 +2,7 @@
 
 ## Datos personales
 
-![Este soy yo](/img/foto.png)
+![Este soy yo](/img/yo)
 
 - Signo : Acuario
 - Ascendencia : Piscis
